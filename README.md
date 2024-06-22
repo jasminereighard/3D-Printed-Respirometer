@@ -5,6 +5,7 @@ Attached are the STL files for the 3D respirometer, along with printing instruct
 
 This respirometer design is intended for intermittent-flow respirometry. The cone-bottom design helps keep sediments suspended during measurement cycles.
 
+When you click on the files in the mainbranch, github shows a preview of the stl that looks crazy but the files work just fine. 
 Here is a link to the filament we used.
 https://www.prusa3d.com/product/prusament-petg-chalky-blue-1kg/
 
